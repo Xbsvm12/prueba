@@ -14,7 +14,7 @@ body{
 }
 
 #contenedor {
-	width: 75%;
+	width: 80%;
 	background: #d3d3d3;
 	margin: 0px auto;
 	border: solid black;
@@ -94,94 +94,6 @@ body div header h1 {
 	 #menu ul li:hover > ul {
 	 display:block;
 	}
-.subtema {
-		
-	}
-/*body div header nav ul {
-	width: 30%;
-	float: left;
-	height: 70px;
-	list-style-type: none;
-	/*margin-top: 27px;*/
-}
-
-
-/*#menu li a:link, #navegador li a:visited { 
-    color: #feffe4; text-decoration: none; 
-}
-
-
-.barradenavegacion {
-	width: 25%;
-	float: left;
-	/*display: block;
-	height: 70px;
-	text-align: center;
-	display: flex;
-	/*para alinear verticalmene
-	align-items: center;
-	/*para alinear horizontalmente
-	justify-content: center;
-
-}
-
-#menu ul a {
- /*display:block;
- color:#fff;
- text-decoration:none;
- /*font-weight:400;*/
- /*font-size:15px;
- /*padding:10px;*/
-/* font-family:"HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
- text-transform:uppercase;
- /*letter-spacing:1px;*/
-}
-/*
-#menu ul li {
- position:relative;
- float:left;
- margin:0;
- padding:0;
-}
-.barradenavegacion:hover {
-	background-color: #6f6f6f; 
-
-
-}
-
-#menu ul ul {
- display:none;
- position:absolute;
- top:100%;
- left:0;
- background:#eee;
- padding:0;
-}
-#menu ul ul li {
- float:none;
- width:150px
-}
-#menu ul ul a {
- line-height:120%;
- padding:10px 15px;
- }
- #menu ul li:hover > ul {
- display:block;
-}
-
-/*el hover sirve para cuando el mouse esta ensima de*/
-
-/*#menu li{
-	position: relative; 
-}
-
-#subseccion1 { position: absolute; top: 100%; left: 0px;  
-             background-color: #41338b; font:normal 0.8em arial;  
-             padding: 0.2em 0.5em ; }	
-*/
-
-
-
 
 
 
