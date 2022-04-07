@@ -1,6 +1,4 @@
 table {
-	text-align: center;
-	margin: 0px auto;
 	margin-top: 15px;
 }
 
@@ -26,6 +24,7 @@ table {
 
 #parrafo{
 		padding-right: 20%;
+		overflow-y: scroll;
 }
 
 section h2 {
@@ -44,8 +43,3 @@ aside p {
 #setenta{
 	display: inline;
 }
-
-.siemprenlv{
-	position: fixed;
-}
-

@@ -7,24 +7,38 @@ body{
 	font-family:Arial;
 	background: #d9d9d9;
 }
+header {	
+	height: 70px;
+	background: #8f8f8f;
+	width: 100%;
 
+}
+#header{
+	position: fixed;
+	width: 100%;
+	/*margin-bottom: 70px;
+	/*border-bottom: 70px;*/
+}
 .contenedor{
 	  display: flex;
   align-items: stretch;
 }
 
-#contenedor {
-	width: 80%;
+#contenido {
+	/*min-*/width:1200px;
+	max-width: 100%;
 	background: #d3d3d3;
 	margin: 0px auto;
 	border: solid black;
 	border-top: none;
+	padding-top: 70px;
 }
 
-header {
-	height: 70px;
-	background: #8f8f8f;
+.contenedor2{
+
 }
+
+
 
 body div header h1 {
 	width: 60%;
@@ -32,6 +46,7 @@ body div header h1 {
 	float: left;
 	height: 50px;
 	line-height: 70px;
+	overflow: hidden;
 }
 
 
@@ -105,7 +120,7 @@ body div header h1 {
 
 #parrafo {
 	/*font-family:"Times New Roman", Times, serif;*/
-	width: calc(80% - 20px);
+	width: calc(70%% - 20px);
 	float: left;
 	min-height: 600px;
 	padding: 10px;
@@ -114,10 +129,14 @@ body div header h1 {
 
 aside {
 	background: #a0a0a0;
-	width: calc(20% - 20px);
+	width: calc(30% - 10px);
 	float: left;
-	min-height: ;
+	/*min-height: ;*/
 	padding: 10px;
+}
+
+#barralateral{
+	position: fixed;
 }
 
 footer {
@@ -126,4 +145,3 @@ footer {
 	text-align: center;
 	line-height: 30px;
 }
-
