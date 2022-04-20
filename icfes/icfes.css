@@ -22,9 +22,15 @@ table {
 	margin-top: 10px;
 }
 
-#parrafo{
+/*#parrafo{
 		padding-right: 20%;
-		overflow-y: scroll;
+		overflow-y: ;
+
+}*/
+#parrafo{
+	height: 500px;
+	overflow-y: scroll;
+	display: block;
 }
 
 section h2 {
