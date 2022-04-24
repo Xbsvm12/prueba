@@ -28,9 +28,9 @@ table {
 
 }*/
 #parrafo{
-	height: 500px;
-	overflow-y: scroll;
-	display: block;
+	min-height: 500px;
+	/*overflow-y: scroll;
+	display: block;*/
 }
 
 section h2 {

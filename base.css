@@ -13,6 +13,10 @@ header {
 	width: 100%;
 
 }
+#separador{
+	height: 70px;
+	width: 70px;
+}
 #header{
 	position: fixed;
 	width: 100%;
