@@ -120,7 +120,7 @@ body div header h1 {
 
 #parrafo {
 	/*font-family:"Times New Roman", Times, serif;*/
-	width: calc(70%% - 20px);
+	width: calc(70% - 20px);
 	float: left;
 	min-height: 600px;
 	padding: 10px;
