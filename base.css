@@ -32,10 +32,10 @@ header {
 #contenido {
 	/*min-*/width:1200px;
 	max-width: 100%;
-	background: #d3d3d3;
+	background: #D1D1D1;
 	margin: 0px auto;
-	border: solid black;
-	border-top: none;
+	/*border: solid black;
+	border-top: none;*/
 	/*padding-top: 70px;*/
 }
 
@@ -127,7 +127,7 @@ body div header h1 {
 	/*font-family:"Times New Roman", Times, serif;*/
 	/*width: calc(90% - 10px);*/
 	float: left;
-	min-height: 600px;
+	min-height: 720px;
 	padding: 10px;
 	/*margin-right: 20%;*/
 }
