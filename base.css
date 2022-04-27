@@ -26,6 +26,7 @@ header {
 .contenedor{
 	  display: flex;
   align-items: stretch;
+	width: 100%;
 }
 
 #contenido {
@@ -39,7 +40,7 @@ header {
 }
 
 .contenedor2{
-
+ min-width: 80%;
 }
 
 
@@ -124,7 +125,7 @@ body div header h1 {
 
 #parrafo {
 	/*font-family:"Times New Roman", Times, serif;*/
-	width: calc(70% - 20px);
+	/*width: calc(90% - 10px);*/
 	float: left;
 	min-height: 600px;
 	padding: 10px;
@@ -133,7 +134,7 @@ body div header h1 {
 
 aside {
 	background: #a0a0a0;
-	width: calc(30% - 10px);
+	height: calc(100% - 20px);
 	float: left;
 	/*min-height: ;*/
 	padding: 10px;
